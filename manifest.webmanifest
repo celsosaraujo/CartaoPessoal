@@ -1,6 +1,6 @@
 {
-  "name": "CartaoCelso",
-  "short_name": "CartaoCelso",
+  "name": "Cartao Pessoal do Celso",
+  "short_name": "Cartao Celso",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#ffffff",
